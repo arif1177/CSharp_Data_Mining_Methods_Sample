@@ -1,0 +1,8 @@
+E:\Google Drive\Codings\myCodeRepositories\c#\HomeMenu\HomeMenu\bin\Debug\HomeMenu.exe
+E:\Google Drive\Codings\myCodeRepositories\c#\HomeMenu\HomeMenu\bin\Debug\HomeMenu.pdb
+E:\Google Drive\Codings\myCodeRepositories\c#\HomeMenu\HomeMenu\obj\x86\Debug\HomeMenu.frmHomeScreen.resources
+E:\Google Drive\Codings\myCodeRepositories\c#\HomeMenu\HomeMenu\obj\x86\Debug\HomeMenu.Properties.Resources.resources
+E:\Google Drive\Codings\myCodeRepositories\c#\HomeMenu\HomeMenu\obj\x86\Debug\HomeMenu.csproj.GenerateResource.Cache
+E:\Google Drive\Codings\myCodeRepositories\c#\HomeMenu\HomeMenu\obj\x86\Debug\HomeMenu.exe
+E:\Google Drive\Codings\myCodeRepositories\c#\HomeMenu\HomeMenu\obj\x86\Debug\HomeMenu.pdb
+E:\Google Drive\Codings\myCodeRepositories\c#\HomeMenu\HomeMenu\obj\x86\Debug\HomeMenu.csprojAssemblyReference.cache
